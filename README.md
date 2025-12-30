@@ -24,9 +24,9 @@ Die zentrale Anwendung BecSymmetryBreaking.py berechnet das räumlich integriert
 
 🐧 Linux & 🍎 macOS  
 
-git clone https://github.com/alexej-schelle/BecCoherenceTime.git
-cd BecCoherenceTime
-python BecSymmetryBreaking.py
+git clone https://github.com/alexej-schelle/BecCoherenceTime.git  
+cd BecCoherenceTime  
+python BecSymmetryBreaking.py  
 
 🪟 Windows  
 

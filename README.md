@@ -31,8 +31,10 @@ python BecSymmetryBreaking.py
 🪟 Windows  
 
 📥 Repository herunterladen:  
+
 👉 https://github.com/alexej-schelle/BecCoherenceTime/  
 📂 ZIP-Datei entpacken  
+
 ▶️ Die gewünschten Python-Dateien mit einer installierten Python-Version starten  
 
 📘 Dokumentation  

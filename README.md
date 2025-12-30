@@ -1,33 +1,59 @@
-# Coherence time of a Bose-Einstein condensate 
-The software BecSymmetryBreaking.py ibuilt on a Markov sampling method, more specific, on a (generalized) Metropolis sampling algorithm for calculating the 
-integrated (random) condensate wave field (order parameter) for a given total particle number, temperature and trap frequency of a Bose-Einstein condensate.
+Willkommen bei BecCoherenceTime 🎉
+Dieses Softwarepaket dient zur numerischen Berechnung der Kohärenzzeit eines Bose–Einstein-Kondensats auf Basis eines Markov-Sampling-Verfahrens, genauer eines (verallgemeinerten) Metropolis-Algorithmus.
 
-# Installation unter Linux und Mac Betriebssystemen
-**************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/BecCoherenceTime.git and start the software with the corresponding Python files
-**************************************************************************************************************************************
+Die zentrale Anwendung BecSymmetryBreaking.py berechnet das integrierte (zufällige) Kondensat-Wellenfeld (Ordnungsparameter) für vorgegebene:
 
-# Installation unter Windows Betriebssystemen
-**************************************************************************************************************************************
-    Download files at https://github.com/alexej-schelle/BecCoherenceTime/ and start the software with the corresponding Python files
-**************************************************************************************************************************************
+👥 Gesamtteilchenzahl
 
-# Dokumentation unter Linux, Mac und Windows Betriebssystemen
-**************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/BecCoherenceTime.git and read docs/README.txt
-**************************************************************************************************************************************
+🌡️ Temperatur
 
-# Dokumentierte Anwendungsszenarien
-***********************************************************************************************************************************************************************************************
+🪤 Fallenfrequenz
 
-    Please visit https://www.iu.org/ or ask at alexej.schelle.ext@iu.org.
+✨ Features
 
-***********************************************************************************************************************************************************************************************
+🔬 Physikalisch fundierte Simulation von BEC-Kohärenzeigenschaften
 
-# Autoren
+🎲 Markov-Chain-Monte-Carlo (MCMC) / Metropolis-Sampling
 
-*********************************************************************************************************************
+🧮 Unterstützung realitätsnaher thermischer Fluktuationen
 
-   - FH-Doz. Dr. A. Schelle.
-  
-*********************************************************************************************************************
+🖥️ Plattformübergreifend (Linux, macOS, Windows)
+
+📄 Dokumentierte Anwendungsszenarien
+
+📦 Installation  
+
+🐧 Linux & 🍎 macOS  
+
+git clone https://github.com/alexej-schelle/BecCoherenceTime.git
+cd BecCoherenceTime
+python BecSymmetryBreaking.py
+
+🪟 Windows  
+
+📥 Repository herunterladen:  
+👉 https://github.com/alexej-schelle/BecCoherenceTime/  
+📂 ZIP-Datei entpacken  
+▶️ Die gewünschten Python-Dateien mit einer installierten Python-Version starten  
+
+📘 Dokumentation  
+
+Die vollständige technische Dokumentation finden Sie im Repository unter:  
+
+docs/README.txt  
+
+Oder direkt nach dem Klonen des Repositories einsehbar.  
+
+🧪 Dokumentierte Anwendungsszenarien  
+
+Für detaillierte Beispiele, Forschungskooperationen oder praxisnahe Anwendungsszenarien besuchen Sie bitte:  
+
+🌐 https://www.iu.org/  
+
+oder kontaktieren Sie direkt:  
+
+✉️ alexej.schelle.ext@iu.org  
+
+👨‍🔬 Autor  
+
+FH-Doz. Dr. A. Schelle  

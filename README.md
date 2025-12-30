@@ -1,6 +1,6 @@
 
 Dieses Softwarepaket dient zur numerischen Berechnung der Kohärenzzeit eines Bose–Einstein-Kondensats auf Basis eines Markov-Sampling-Verfahrens, genauer eines (verallgemeinerten) Metropolis-Algorithmus.
-Die zentrale Anwendung BecSymmetryBreaking.py berechnet das integrierte (zufällige) Kondensat-Wellenfeld (Ordnungsparameter) für vorgegebene:
+Die zentrale Anwendung BecSymmetryBreaking.py berechnet das räumlich integrierte (zufällige) Kondensat-Wellenfeld (Ordnungsparameter) für vorgegebene:
 
 👥 Gesamtteilchenzahl
 
